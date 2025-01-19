@@ -44,8 +44,3 @@ This is an Amazon Clone build it with React JS, Node JS, HTML and CSS.
 
 ## Try it yourself [here!](https://clone-3ae96.web.app/) 🚀
 
-<br/>
-<br/>
-
----
-Made it with 🖤 by [Rafalazar](https://github.com/rafalazar)
